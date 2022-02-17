@@ -6,7 +6,7 @@ I'm Conor Bauer, a Senior Customer Success Manager at Pantheon.
 - :seedling: I’m currently learning about Github Actions/CI.
 - 🏍️ I love riding motorcycles in my free time.
 - :speech_balloon: Ask me about anything.
-- 📝 open to learning new things, always!
+- 📝 Open to learning new things, always!
 
 🤝 &nbsp; Connect with Me
 
