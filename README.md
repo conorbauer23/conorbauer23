@@ -4,8 +4,9 @@ I'm Conor Bauer, a Senior Customer Success Manager at Pantheon.
 
 
 - :seedling: I’m currently learning about Github Actions/CI.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- 🏍️ I love riding motorcycles in my free time.
 - :speech_balloon: Ask me about anything.
+- 📝 open to learning new things, always!
 
 🤝 &nbsp; Connect with Me
 
