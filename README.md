@@ -18,4 +18,4 @@ conorbauer23/conorbauer23 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![conorbauer23's github activity graph](https://activity-graph.herokuapp.com/graph?username=conorbauer23&theme=react-dark)](https://github.com/conorbauer23/github-readme-activity-graph)
+
