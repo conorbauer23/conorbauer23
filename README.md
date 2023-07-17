@@ -3,7 +3,7 @@
 I'm Conor Bauer, a Customer Success Architect at Pantheon. 
 
 
-- 🏍️ I love riding motorcycles in my free time.
+- 🌲 In my spare time, I care for my Bonsai garden. 
 - :speech_balloon: Ask me about anything.
 - 📝 Open to learning new things, always!
 
